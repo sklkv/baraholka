@@ -1,0 +1,32 @@
+{
+  "35501" : {
+    "name" : "Граната",
+    "cost" : 300,
+    "description" : "Граната на все случаи жизни",
+    "image": "images/Grenade.png"
+  },
+  "35502" : {
+    "name" : "Вантуз",
+    "cost" : 420,
+    "description" : "Вантуз \"Антизасор\"",
+    "image": "images/Plunker.png"
+  },
+  "35503" : {
+    "name" : "Носки",
+    "cost" : 200,
+    "description" : "Носки ламповые",
+    "image": "images/Socks.png"
+  },
+  "35504" : {
+    "name" : "Белка",
+    "cost" : 700,
+    "description" : "Белка мудрая",
+    "image": "images/Squirrel.png"
+  },
+  "35505" : {
+    "name" : "Томат",
+    "cost" : 50,
+    "description" : "Томат необыкновенный",
+    "image": "images/Tomato.png"
+  }
+}
